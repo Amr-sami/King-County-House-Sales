@@ -10,3 +10,5 @@ This project transforms housing data into an interactive Tableau dashboard. It f
 - Intuitive filters, including a calendar widget
 
 The dashboard is designed to provide clear, actionable insights and is published online for easy access.
+
+![Dashboard Screenshot](img.jpeg)
